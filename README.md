@@ -9,5 +9,9 @@ This line is create on feature1
 fix issue1
 
 This line is create on dev
+
 add newline by mat
+
 add new line by zhiyfly
+
+test reset
